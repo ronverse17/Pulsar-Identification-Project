@@ -153,12 +153,6 @@ Confirmed / Probable Pulsars
 ├── dataset/
 │   └── 4FGL-DR4 dataset files
 │
-├── figures/
-│   └── Generated plots and heatmaps
-│
-├── report/
-│   └── Project report / thesis
-│
 └── README.md
 ```
 
